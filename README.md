@@ -1,4 +1,4 @@
-# customer_shoppping
+# customer_shopping
 First power BI dashboard
 # Customer Shopping Behavior Dashboard
 
